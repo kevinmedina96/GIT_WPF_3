@@ -23,8 +23,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://github.com/kevinmedina96/git_wf_6/tree/master/published/</InstallUrl>
-    <UpdateUrl>https://github.com/kevinmedina96/git_wf_6/tree/master/published/</UpdateUrl>
+    <InstallUrl>https://github.com/kevinmedina96/GIT_WPF_3/tree/master/published/</InstallUrl>
+    <UpdateUrl>https://github.com/kevinmedina96/GIT_WPF_3/tree/master/published/</UpdateUrl>
     <ApplicationRevision>1</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
